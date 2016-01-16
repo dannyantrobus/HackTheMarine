@@ -34,3 +34,35 @@ The MMO want to know the spatial distribution of habitats around the UK coastlin
 ### INFO
 
 Concise PDF of UK Marine Habitat Types: [ukmarinesac.org.uk](ukmarinesac.org.uk)
+
+JNCC UK SeaMap 2010 (doing something similar to our project) [http://jncc.defra.gov.uk/page-5534] (http://jncc.defra.gov.uk/page-5534)
+
+JNCC Habitat Mapping Products [http://jncc.defra.gov.uk/page-6639] (http://jncc.defra.gov.uk/page-6639)
+
+### DATA
+
+European Directory of Marine Environmental Data (EDMED) 
+[http://www.bodc.ac.uk/data/information_and_inventories/edmed/search/] (http://www.bodc.ac.uk/data/information_and_inventories/edmed/search/)
+
+
+Met Office Rolling 24 hour data set of observed marine weather. 
+https://data.gov.uk/dataset/latest-marine-observational-data
+(Or via Met Office Data Point http://www.metoffice.gov.uk/datapoint)
+Observations from buoys, light vessels and coastal stations around the UK and within UK waters. Observation parameters reported include:
+                Present weather (code) 
+                Air Temp (degrees C) 
+                Dew Pt Temp (degrees C) 
+                Sea Temp (degrees C) 
+                Humidity (%) 
+                Wind Speed (knots) 
+                Wind direction (degrees) 
+                Visibility (nautical miles) 
+                Pressure (hPA) 
+                Wave Height (metres) 
+                Wave period (seconds)
+ 
+
+JNCC Habitat and Species Point Records of Surveys from a load of different points around the coast over the last 40 years. Each csv has details of species/habitats – their locations and descriptions
+There are almost 500 of these indiviudal csvs
+[https://data.gov.uk/data/search?sort=metadata_modified+desc&publisher=joint-nature-conservation-committee&unpublished=false&page=1] (https://data.gov.uk/data/search?sort=metadata_modified+desc&publisher=joint-nature-conservation-committee&unpublished=false&page=1)  
+
